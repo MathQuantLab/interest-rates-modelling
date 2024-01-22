@@ -1,1 +1,1 @@
-# interest-rates-modelling
+# Interest rate modelling
