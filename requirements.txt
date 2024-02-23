@@ -3,3 +3,7 @@ pandas
 matplotlib
 jupyter 
 notebook
+math
+scipy
+random
+warnings
